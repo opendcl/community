@@ -35,4 +35,4 @@ See [Welcome to OpenDCL community Discussions](https://github.com/opendcl/commun
 
 ## Legacy forum
 
-The SMF board at [opendcl.com/forum](https://www.opendcl.com/forum/) is **frozen** (maintenance mode) and is being retired. History is preserved in the [forum archive](https://opendcl.github.io/forum-archive/).
+The legacy SMF forum has been **decommissioned**. The [www.opendcl.com/forum](https://www.opendcl.com/forum/) URL now serves a GitHub Pages landing page (with redirects for old topic/board links). History is preserved in the [forum archive](https://opendcl.github.io/forum-archive/).
