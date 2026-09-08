@@ -5,7 +5,7 @@
 | Need | Where |
 |------|--------|
 | Ask a question | **[Q&A](https://github.com/opendcl/community/discussions/new?category=q-a)** |
-| Wishlist (new capability) | **[Wishlist](https://github.com/opendcl/community/discussions/new?category=ideas)** |
+| Wishlist (new capability) | **[Wishlist](https://github.com/opendcl/community/discussions/new?category=wishlist)** |
 | Report a bug | [opendcl/OpenDCL Issues](https://github.com/opendcl/OpenDCL/issues/new?template=bug.yml) |
 | Historic forum (2007–2026) | **[Forum archive](https://opendcl.github.io/forum-archive/)** (read-only, searchable) |
 | Source code | [opendcl/OpenDCL](https://github.com/opendcl/OpenDCL) |
@@ -32,7 +32,7 @@ See [Welcome to OpenDCL community Discussions](https://github.com/opendcl/commun
 |----------|---------|
 | Announcements | Maintainer news and policy |
 | Q&A | Help with Runtime, Studio, deployment, AutoLISP |
-| Wishlist | New capabilities (GitHub slug `ideas` until the category is renamed in Settings) |
+| Wishlist | New capabilities |
 | Show and tell | Projects, screenshots, tips |
 | General | Other topics, including archive questions |
 

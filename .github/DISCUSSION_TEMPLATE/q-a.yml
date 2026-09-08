@@ -5,7 +5,7 @@ body:
       value: |
         Use this for **how-to and support**.
 
-        - **Wishlist** (new capability) → [open a Wishlist post](https://github.com/opendcl/community/discussions/new?category=ideas)
+        - **Wishlist** (new capability) → [open a Wishlist post](https://github.com/opendcl/community/discussions/new?category=wishlist)
         - **Bug** (already exists, misbehaves) → [report a bug](https://github.com/opendcl/OpenDCL/issues/new?template=bug.yml)
   - type: textarea
     id: question
