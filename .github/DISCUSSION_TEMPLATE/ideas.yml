@@ -1,0 +1,18 @@
+title: "[Wishlist] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this for **something OpenDCL cannot do today**.
+
+        - **How-to / support** → [Ask a question](https://github.com/opendcl/community/discussions/new?category=q-a)
+        - **Bug** (already exists, misbehaves) → [report a bug](https://github.com/opendcl/OpenDCL/issues/new?template=bug.yml)
+
+        Maintainers may promote an accepted item to an issue on opendcl/OpenDCL.
+  - type: textarea
+    id: request
+    attributes:
+      label: What do you want OpenDCL to do?
+      description: The problem, who it helps, and any current workaround.
+    validations:
+      required: true
